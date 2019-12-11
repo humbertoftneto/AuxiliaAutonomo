@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "487333941353",
+    "firebase_url": "https://auxiliaautonomo-87dc8.firebaseio.com",
+    "project_id": "auxiliaautonomo-87dc8",
+    "storage_bucket": "auxiliaautonomo-87dc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487333941353:android:da38374fac42d5f938d2f8",
+        "android_client_info": {
+          "package_name": "com.example.auxiliaautonomo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487333941353-6gcpv6skdp4tla37ha305pv79o163iqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auxiliaautonomo",
+            "certificate_hash": "c3327c9b57328b64b228b2f3943eb26b466a2237"
+          }
+        },
+        {
+          "client_id": "487333941353-1j277vrplm0tvv790cojq0k0tver0gp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrUb-BAhAv23pHcw0xfy_kBdPehV3oo74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487333941353-1j277vrplm0tvv790cojq0k0tver0gp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
